@@ -4,7 +4,7 @@
 
 This is the screenshot of HomePage. Here you can click on buttun check Now go to weatherAPP.
 
-![HomePage](https://github.com/rPankaj05/weatherApp/tree/main/public/screenshots/home.png)
+![HomePage](https://github.com/rPankaj05/weatherApp/blob/main/public/screenshots/home.png)
 
 
 
