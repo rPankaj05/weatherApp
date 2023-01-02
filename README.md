@@ -3,7 +3,7 @@
 ### [🔴 Click here for Live Site](https://weatherapp-dbvb.onrender.com)
 
 
-![HomePage](https://github.com/rPankaj05/weatherApp/blob/main/jome.png)
+![HomePage](https://github.com/rPankaj05/weatherApp/blob/main/home.png)
 
 
 
