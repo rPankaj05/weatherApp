@@ -2,9 +2,34 @@
 
 ### [🔴 Click here for Live Site](https://weatherapp-dbvb.onrender.com)
 
+
+
 This is the screenshot of HomePage. Here you can click on buttun check Now go to weatherAPP.
 
 ![HomePage](https://github.com/rPankaj05/weatherApp/blob/main/public/screenshots/home.png)
+
+
+After click on check now button You will redirect weather page that have interface like this. 
+Here  you can Enter you city name and find current temperature and date and day.
+
+![HomePage](https://github.com/rPankaj05/weatherApp/blob/main/public/screenshots/weather.png)
+
+
+
+After entering correct city name and click on search button you will be shown a result like this.
+
+![HomePage](https://github.com/rPankaj05/weatherApp/blob/main/public/screenshots/weatherResult.png)
+
+
+From navbar you can also click on about for details of developer.
+
+![HomePage](https://github.com/rPankaj05/weatherApp/blob/main/public/screenshots/about.png)
+
+
+
+
+
+
 
 
 
