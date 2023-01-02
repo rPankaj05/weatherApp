@@ -10,9 +10,14 @@ This app have tree pages Home, weather and about.
 
 Technologies used in this are JavaScript , NodeJs , ExpressJs , Handelbars , CSS.
 
-HandelBars are used to sevre dynamic webPages.
+HandelBars are used to serve dynamic webPages.
+
+
+
 
 ### [🔴 Click here for Live Site](https://weatherapp-dbvb.onrender.com)
+
+
 
 
 
