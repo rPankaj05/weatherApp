@@ -1,5 +1,17 @@
 ## weatherApp
 
+About the Project... 
+
+This is a live weather Application develop using open weather API.
+
+This is fully responsive and compatible for every devices.
+
+This app have tree pages Home, weather and about.
+
+Technologies used in this are JavaScript , NodeJs , ExpressJs , Handelbars , CSS.
+
+HandelBars are used to sevre dynamic webPages.
+
 ### [🔴 Click here for Live Site](https://weatherapp-dbvb.onrender.com)
 
 
